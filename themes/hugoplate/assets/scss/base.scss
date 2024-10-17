@@ -81,3 +81,53 @@ a {
 a:hover {
   color: #10B981; /* Emerald green for link hover state */
 }
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #E5E7EB; /* Light gray for main text */
+    background-color: #111827; /* Dark background */
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #F3F4F6; /* Very light gray for headings */
+  }
+
+  h1,
+  .h1 {
+    color: #60A5FA; /* Lighter sky blue for main headings */
+  }
+
+  h2,
+  .h2 {
+    color: #34D399; /* Lighter emerald green for secondary headings */
+  }
+
+  h3,
+  .h3 {
+    color: #A78BFA; /* Lighter purple for tertiary headings */
+  }
+
+  code {
+    background-color: #1F2937; /* Darker gray background for code */
+    color: #60A5FA; /* Lighter sky blue text for code */
+  }
+
+  blockquote {
+    border-left-color: #34D399; /* Lighter emerald green border for blockquotes */
+    color: #9CA3AF; /* Lighter medium gray for blockquote text */
+  }
+
+  a {
+    color: #60A5FA; /* Lighter sky blue for links */
+  }
+
+  a:hover {
+    color: #34D399; /* Lighter emerald green for link hover state */
+  }
+}
