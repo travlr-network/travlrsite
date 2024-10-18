@@ -3,7 +3,7 @@
 banner:
   title: "Revolutionizing Travel Data Management"
   content: "Travlr.network is a decentralized ecosystem that puts you in control of your travel data, leveraging blockchain, P2P networking, and decentralized identity for a secure, efficient, and user-centric travel experience."
-  image: "/images/banner.png"
+  image: "/images/header-1.png"
   button:
     enable: true
     label: "Join Our Waitlist"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "What Makes Travlr.network Unique"
-    image: "/images/service-1.png"
+    image: "/images/header-2.png"
     content: "Travlr.network is reimagining travel data management with cutting-edge technology. Our platform offers a range of innovative features:"
     bulletpoints:
       - "Blockchain as the control plane for transparent and secure data management"
@@ -26,7 +26,7 @@ features:
       link: "/technology"
 
   - title: "Transforming the Travel Industry"
-    image: "/images/service-2.png"
+    image: "/images/header-3.png"
     content: "Travlr.network is set to revolutionize how travelers, service providers, and industry stakeholders interact. Our platform enables:"
     bulletpoints:
       - "Secure and user-controlled traveler profiles"
@@ -40,7 +40,7 @@ features:
       link: "/use-cases"
 
   - title: "Join the Future of Travel"
-    image: "/images/service-3.png"
+    image: "/images/header-4.png"
     content: "Be part of the revolution in travel data management. Travlr.network offers numerous benefits for all stakeholders in the travel ecosystem:"
     bulletpoints:
       - "For Travelers: Full control over your data and seamless travel experiences"
